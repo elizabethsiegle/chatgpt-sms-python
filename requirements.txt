@@ -1,0 +1,4 @@
+Flask==2.2.2
+openai==0.26.1
+python-dotenv==0.21.1
+twilio==7.16.1
